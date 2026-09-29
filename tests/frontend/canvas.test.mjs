@@ -252,10 +252,10 @@ test('Home canvas is viewport-sized, panels are optional overlays, and hovering 
 
 test(
   'Optional live read-only check: every canvas node opens the matching library selection',
-  { skip: !process.env.ATLAS_TEST_BASE_URL },
+  { skip: !process.env.CANVAS_TEST_BASE_URL },
   async () => {
     const request = async (path) => {
-      const response = await fetch(`${process.env.ATLAS_TEST_BASE_URL}${path}`);
+      const response = await fetch(`${process.env.CANVAS_TEST_BASE_URL}${path}`);
       assert.equal(response.status, 200, path);
       return response.json();
     };

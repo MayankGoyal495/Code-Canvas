@@ -8,12 +8,12 @@ title: Koko Eating Bananas
 url: https://leetcode.com/problems/koko-eating-bananas/
 difficulty: Medium
 status: Understood
-primary_subtag_id: 539ba9fe-cbf9-5199-bc70-cbf4767d39e3
+primary_subtag_id: 6b178111-6da6-534e-aeef-97c0915531f4
 primary_path:
 - search-ordering
 - binary-search
 taxonomy_ids:
-- b0652ae3-41f7-5430-884a-13ba1fb5a6bd
+- 47e633cf-4410-5fe3-938e-8a2954994c67
 time_complexity: O(n log max(piles))
 space_complexity: O(1)
 created_at: '2026-08-27T19:49:12.677170Z'
@@ -24,8 +24,8 @@ mistake_events:
   observation: The feasibility calculation used a hard-coded divisor and shadowed
     the candidate parameter.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - 63a4f2e6-33e2-519b-9850-fae53c50574c
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - 6ce88eae-67d8-5665-b266-e231c383bd20
 ---
 
 # Koko Eating Bananas

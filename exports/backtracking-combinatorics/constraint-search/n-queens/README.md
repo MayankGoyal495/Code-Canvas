@@ -8,12 +8,12 @@ title: N-Queens
 url: https://www.lintcode.com/problem/33/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 40bb7087-9862-5cad-8a94-b3dc441b47b5
+primary_subtag_id: e3559c87-88b2-5555-8d01-abcf125b8845
 primary_path:
 - backtracking-combinatorics
 - constraint-search
 taxonomy_ids:
-- 035e24d4-1f25-5fbd-a08a-dce65bfc8e81
+- 054ef9fe-949a-55b2-9bda-92b17b4d682f
 time_complexity: O(n * n!)
 space_complexity: O(n^2) auxiliary; output excluded
 created_at: '2026-08-30T18:38:03.123483Z'

@@ -8,13 +8,13 @@ title: Remove K Digits
 url: https://leetcode.com/problems/remove-k-digits/description/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: f8114b51-19ad-59e8-be91-dba32413b6be
+primary_subtag_id: cdcd2e43-2dd4-5dc7-b780-43650c33e9f9
 primary_path:
 - linear-structures
 - stacks
 taxonomy_ids:
-- 777a0d33-feae-5a5b-834e-b2c82f43104e
-- b982f2f2-cab6-50cf-8cb7-56825e9fd2b4
+- 61d24c1f-b41c-5e63-988d-68e58e3c051b
+- 6518e5af-27ca-57ea-ab6a-fd6b73954026
 time_complexity: O(n^2) portable worst case; O(n) stack processing
 space_complexity: O(n)
 created_at: '2026-09-07T01:31:44.365073Z'

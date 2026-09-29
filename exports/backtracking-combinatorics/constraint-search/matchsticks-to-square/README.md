@@ -8,13 +8,13 @@ title: Matchsticks to Square
 url: https://leetcode.com/problems/matchsticks-to-square/description/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 40bb7087-9862-5cad-8a94-b3dc441b47b5
+primary_subtag_id: e3559c87-88b2-5555-8d01-abcf125b8845
 primary_path:
 - backtracking-combinatorics
 - constraint-search
 taxonomy_ids:
-- 035e24d4-1f25-5fbd-a08a-dce65bfc8e81
-- dd1d5cff-9466-546f-94c1-68b9af6fa9e2
+- 054ef9fe-949a-55b2-9bda-92b17b4d682f
+- 0ced7452-092a-5352-b714-ad0f03bba12e
 time_complexity: O(4^n) worst case
 space_complexity: O(n) auxiliary space
 created_at: '2026-09-06T14:19:53.254919Z'
@@ -25,8 +25,8 @@ mistake_events:
   observation: 'Retrospective: I returned the first fitting recursive branch immediately
     after it failed, so sibling sides were never explored.'
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - 63a4f2e6-33e2-519b-9850-fae53c50574c
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - 6ce88eae-67d8-5665-b266-e231c383bd20
 ---
 
 # Matchsticks to Square

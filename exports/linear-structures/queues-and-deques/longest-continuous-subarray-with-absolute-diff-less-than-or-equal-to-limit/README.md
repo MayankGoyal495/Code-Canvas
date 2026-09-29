@@ -8,14 +8,14 @@ title: Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limi
 url: https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 difficulty: Medium
 status: Understood
-primary_subtag_id: 9d2f9aa8-4194-5738-91a7-e6cb256b3781
+primary_subtag_id: 4db7566d-a3f5-5fa7-b8ff-ce18de861442
 primary_path:
 - linear-structures
 - queues-and-deques
 taxonomy_ids:
-- a99b4f1f-c5bd-5b5c-901c-8810700e227c
-- 3335aafe-6ac1-5ade-bd78-3e038e206c3c
-- b0652ae3-41f7-5430-884a-13ba1fb5a6bd
+- 6486004a-e376-5730-bde3-e78f5b856264
+- b16590ff-f8d1-565e-a2b5-bef4c03be8ce
+- 47e633cf-4410-5fe3-938e-8a2954994c67
 time_complexity: O(n)
 space_complexity: O(n)
 created_at: '2026-08-27T19:49:12.725008Z'
@@ -26,8 +26,8 @@ mistake_events:
   observation: Needed to see why both a minimum deque and maximum deque are required
     while both window ends move.
   reason_ids:
-  - 5b8bba84-1b4b-5a1c-ba66-a93cc6d71563
-  - 6e5b1f0e-1c39-5c5f-9031-44b8d2e7141e
+  - e47bcbb0-5c1b-5fad-a19e-3bbb8e6ee04a
+  - de0ada30-5a0b-5e9e-b4ab-482c3ce38856
 ---
 
 # Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit

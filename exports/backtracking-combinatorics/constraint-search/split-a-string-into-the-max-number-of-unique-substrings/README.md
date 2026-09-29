@@ -8,12 +8,12 @@ title: Split a String Into the Max Number of Unique Substrings
 url: https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 40bb7087-9862-5cad-8a94-b3dc441b47b5
+primary_subtag_id: e3559c87-88b2-5555-8d01-abcf125b8845
 primary_path:
 - backtracking-combinatorics
 - constraint-search
 taxonomy_ids:
-- b982f2f2-cab6-50cf-8cb7-56825e9fd2b4
+- 6518e5af-27ca-57ea-ab6a-fd6b73954026
 time_complexity: O(n · 2ⁿ)
 space_complexity: O(n)
 created_at: '2026-08-31T13:54:47.642090Z'

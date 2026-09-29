@@ -8,13 +8,13 @@ title: Search Suggestions System
 url: https://leetcode.com/problems/search-suggestions-system/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 572d8a56-845b-506a-8638-c885c23744b7
+primary_subtag_id: ab3483bd-3a44-5c2d-928f-deb4d858795f
 primary_path:
 - trees-ordered
 - tries
 taxonomy_ids:
-- 2c5318fd-1d40-5ac7-85c0-e068a86da9e0
-- b982f2f2-cab6-50cf-8cb7-56825e9fd2b4
+- c9a30ffd-f175-5192-950a-862bb955d3df
+- 6518e5af-27ca-57ea-ab6a-fd6b73954026
 time_complexity: O(S + q² + qL)
 space_complexity: O(S)
 created_at: '2026-08-31T13:54:16.322954Z'

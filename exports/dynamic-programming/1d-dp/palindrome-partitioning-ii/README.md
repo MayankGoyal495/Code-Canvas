@@ -8,14 +8,14 @@ title: Palindrome Partitioning II
 url: https://leetcode.com/problems/palindrome-partitioning-ii/description/
 difficulty: Hard
 status: Resolved
-primary_subtag_id: 7b597323-a5dd-5b2e-84d7-0ae42c92c0f8
+primary_subtag_id: 7446323a-ffc4-5c02-a36c-107167ee0510
 primary_path:
 - dynamic-programming
 - 1d-dp
 taxonomy_ids:
-- 344303c1-32ea-5183-81ca-ef93be3622bb
-- 4d220417-3420-55dc-8eab-60e2ed1702b5
-- b982f2f2-cab6-50cf-8cb7-56825e9fd2b4
+- acd97bba-08f3-5641-9de0-8afd44b319ae
+- 843daa45-ee26-5bef-92fb-7a2723b8ae97
+- 6518e5af-27ca-57ea-ab6a-fd6b73954026
 time_complexity: O(n^2)
 space_complexity: O(n^2)
 created_at: '2026-08-24T18:12:15.562015Z'
@@ -26,25 +26,25 @@ mistake_events:
   observation: 'Attempt 1: interval recursion explored every split without a viable
     state reduction and timed out.'
   reason_ids:
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
 - id: 8eeda70e-4e25-4c39-98aa-e1bbb47deb5f
   occurred_at: '2026-08-24T18:12:15.618505Z'
   observation: 'Attempt 2: memoized solve(i, j) had O(n^2) states and O(n) split work
     per state, so O(n^3) still timed out for n = 2000.'
   reason_ids:
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
 - id: 557b2815-c9dc-4765-b773-ac4cbb28e1db
   occurred_at: '2026-08-24T18:12:15.665900Z'
   observation: 'Attempt 3: checked palindrome[end][start] and added cuts[end - 1]
     instead of palindrome[start][end] and cuts[start - 1]; Wrong Answer on cdd.'
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
 - id: 76dd9194-cc32-4c70-99d4-5205b02f2fd7
   occurred_at: '2026-08-24T18:12:15.695575Z'
   observation: 'Attempt 4: printed the O(n^2) palindrome table and hit Output Limit
     Exceeded even after the recurrence was corrected.'
   reason_ids:
-  - 63a4f2e6-33e2-519b-9850-fae53c50574c
+  - 6ce88eae-67d8-5665-b266-e231c383bd20
 ---
 
 # Palindrome Partitioning II

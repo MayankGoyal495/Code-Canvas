@@ -8,13 +8,13 @@ title: Coin Change II
 url: https://leetcode.com/problems/coin-change-ii/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 1e1f6ca6-3d54-5730-ad86-cbc49073b258
+primary_subtag_id: fb0525f7-6c7f-5b9b-99c3-02cfba91b0d2
 primary_path:
 - dynamic-programming
 - knapsack
 taxonomy_ids:
-- 035e24d4-1f25-5fbd-a08a-dce65bfc8e81
-- 61519ac5-0946-538e-b0b5-376fc03a78b3
+- 054ef9fe-949a-55b2-9bda-92b17b4d682f
+- 880edbfd-20b6-5198-a766-5232b888276a
 time_complexity: O(n * (amount + 1))
 space_complexity: O(n * (amount + 1)); n = len(coins)
 created_at: '2026-08-30T18:38:03.188481Z'

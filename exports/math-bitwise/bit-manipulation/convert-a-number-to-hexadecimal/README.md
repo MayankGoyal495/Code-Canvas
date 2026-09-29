@@ -8,7 +8,7 @@ title: Convert a Number to Hexadecimal
 url: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 difficulty: Easy
 status: Resolved
-primary_subtag_id: eed2d54f-4047-5728-8e33-4d0004776eef
+primary_subtag_id: cb4cf2f9-8cbc-5691-bad4-38947e7822c8
 primary_path:
 - math-bitwise
 - bit-manipulation

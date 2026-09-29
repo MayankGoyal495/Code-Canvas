@@ -8,13 +8,13 @@ title: Subsets II
 url: https://leetcode.com/problems/subsets-ii/
 difficulty: Medium
 status: Understood
-primary_subtag_id: 1efc727e-a024-5b08-bb5c-1ac9d1c864be
+primary_subtag_id: dc94b58c-a6b1-5faa-bf91-b345d4dd0abe
 primary_path:
 - backtracking-combinatorics
 - subsets
 taxonomy_ids:
-- 40bb7087-9862-5cad-8a94-b3dc441b47b5
-- dd1d5cff-9466-546f-94c1-68b9af6fa9e2
+- e3559c87-88b2-5555-8d01-abcf125b8845
+- 0ced7452-092a-5352-b714-ad0f03bba12e
 time_complexity: O(n log n + n × unique subsets)
 space_complexity: O(n) auxiliary + output
 created_at: '2026-08-27T19:49:12.715623Z'
@@ -24,8 +24,8 @@ mistake_events:
   occurred_at: '2026-08-27T19:49:12.715949Z'
   observation: A global seen set removed duplicates only after generating them.
   reason_ids:
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
-  - 6e5b1f0e-1c39-5c5f-9031-44b8d2e7141e
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
+  - de0ada30-5a0b-5e9e-b4ab-482c3ce38856
 ---
 
 # Subsets II

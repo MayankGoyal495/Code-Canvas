@@ -5,140 +5,140 @@
   "records": [
     {
       "id": "af76c9e8-ad95-4030-8525-faf1d04e3c13",
-      "markdown_sha256": "c1d0c8ebaf9640cffa5e7d8da84d5dd6f015bcf009a8925fe649316d68071625",
+      "markdown_sha256": "4e9a78b1a88d9f64a370fe9d88b8104fc7d70c697af5e2e7f89ba9515acdfe97",
       "path": "dynamic-programming/knapsack/coin-change-ii",
       "solution_sha256": "376c83d17cbd11b12b88cc8392b0d1893b3c30105e8e3a534ffe9923869cafa8",
       "title": "Coin Change II"
     },
     {
       "id": "1b9d5067-f7dd-4beb-9db8-24e10eebd76e",
-      "markdown_sha256": "120a5dab48517b52e44adcfaeab3b8b1f545127976939129003b6aadf3c3c218",
+      "markdown_sha256": "8f710de322110df57335f29ca9fc80a42e35d27bff3d947b09bf0af0a24d1fe2",
       "path": "math-bitwise/bit-manipulation/convert-a-number-to-hexadecimal",
       "solution_sha256": "dda3634fb8075407d42f94b1dcca6833169012f970c4ba5a6bb08d73e10b4e36",
       "title": "Convert a Number to Hexadecimal"
     },
     {
       "id": "b72d8fc7-6a98-4508-9ac3-cdfd24f39ff1",
-      "markdown_sha256": "abef18d46c9797d8a5a78f780b363ca297b5584f6560cf1a8346cd5218163aa6",
+      "markdown_sha256": "f493110881db1431c0120478c986ba1c8a86036395155c449fbcd910711e26b1",
       "path": "arrays-strings/arrays/count-the-number-of-incremovable-subarrays-i",
       "solution_sha256": "56e2a48c57230b38fd5c3a13c84d422a1d2f7e9710970c5a7dd36c9ae215b09a",
       "title": "Count the Number of Incremovable Subarrays I"
     },
     {
       "id": "b7d3a194-15ab-4578-b37a-b196a8a7e8f0",
-      "markdown_sha256": "334083eb07b7f9fc8e4559472776d59903e307d50f34307321f3e1a8261d8ebd",
+      "markdown_sha256": "95af425d1391163e9ae019e9911bc5699ca7bf91ee58b024f6e6a8d8ecbb18ba",
       "path": "backtracking-combinatorics/subsets/generate-all-possible-parentheses",
       "solution_sha256": "22e27b12324b5349844596500e1dfb4ee2ec0f51707d1e821f3d6f69e7fa3a16",
       "title": "Generate Parentheses"
     },
     {
       "id": "751b821a-431c-423c-8a80-02b4224d8e15",
-      "markdown_sha256": "b03cd0a230651f3c2324fdb3544c5861cfd88bd571ff0a32b1da9fa269574914",
+      "markdown_sha256": "fa5e43c93623efa35c35c66642859a6225a849ed91587acb5eaf4f7dfc29551e",
       "path": "trees-ordered/heaps/ipo",
       "solution_sha256": "10493dcd7cbdda4c7cd97f81f289f5a925be13a6f358fea304cca25bc4398148",
       "title": "IPO"
     },
     {
       "id": "e2f9972d-8f97-478b-80cc-2ce9f928cecb",
-      "markdown_sha256": "089f9803e994a8d298511e247b4c2b6bb6a3682497112f88907e620177d65429",
+      "markdown_sha256": "0d0619e5a7fc00b24375fa68e4aada9a75d89eedece17c898d0762b22bb9cf30",
       "path": "graphs-networks/graph-traversal/is-graph-bipartite",
       "solution_sha256": "2112013595489da50993b9fbdb9fff0cb0a9d677755439e3ac8af22545818c64",
       "title": "Is Graph Bipartite?"
     },
     {
       "id": "940ddbe1-a81b-4bcb-8b14-754e989792cf",
-      "markdown_sha256": "373b7821dad243eca55c4696b4c6be1acbd293006604ffb7c0366e6e0f235cf7",
+      "markdown_sha256": "78d9c54233ad0f345218ab45a19f59e977acfecf096f4f09a76961415dd79733",
       "path": "search-ordering/binary-search/koko-eating-bananas",
       "solution_sha256": "b5249dc341c687c69eeb9b768f3c73af2fef0379b04b1458d3e70117d7f832d1",
       "title": "Koko Eating Bananas"
     },
     {
       "id": "5071447f-ae98-4516-a042-75dd156636fa",
-      "markdown_sha256": "baa2f7c82130f24c99abb7f539997ffcf4a0d3b9bc6708aa75e4ce7e62f84652",
+      "markdown_sha256": "df52b8c9c125880c69cc34e8429f1e385c94b2ac2f08f1324bf617267bc85251",
       "path": "linear-structures/queues-and-deques/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
       "solution_sha256": "6f49bed4e4249a70a88b2dfbed6cfa44ebeb9b1c9b10b0b357da078d55be9029",
       "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
     },
     {
       "id": "ae551e91-1e3d-4ccb-8b10-c20d6b45c68d",
-      "markdown_sha256": "496e91ec6dc6ffea0434ad24b16ca2d6fa016bb47a9c9892521666833599c03a",
+      "markdown_sha256": "ec2c6fe1c555294313996365ab80ccb93543947d2a9f291efabb69bc034f18c3",
       "path": "backtracking-combinatorics/constraint-search/matchsticks-to-square",
       "solution_sha256": "5f5f98c314f8ac4167ba0eb2159c444cc49966e0e1ba492089e48b83a54f7209",
       "title": "Matchsticks to Square"
     },
     {
       "id": "588a7d5b-acff-4fb7-ba4e-6908f0af23dd",
-      "markdown_sha256": "06ae567ecf463c71c509ddb9b71492bcb5a24c29bb81bcc1c00fbfd37501ddc9",
+      "markdown_sha256": "2c4474f77c9264603cb441c3bd8372d0cb04e8ec2364f23e6bcaed13759e2160",
       "path": "dynamic-programming/2d-and-grid-dp/maximal-square",
       "solution_sha256": "def529609d13c470f88ae087d896ffad19bdc9f878b8e2224cd403e8bc90867e",
       "title": "Maximal Square"
     },
     {
       "id": "b6b055cb-2349-473f-bf0e-5cc80879048e",
-      "markdown_sha256": "527fe8636347a436eef9b595579fd6614475dc73b8380ab5810ebf67c66616bf",
+      "markdown_sha256": "8af4e3e2c32952906558db7090b068515011e0530b5962a48f370af370a13d6c",
       "path": "dynamic-programming/2d-and-grid-dp/minimum-falling-path-sum",
       "solution_sha256": "4cc9cae84b4ddfa8fce2f8edc406924badd3947d0b113415245c53a8a604133c",
       "title": "Minimum Falling Path Sum"
     },
     {
       "id": "c3fb0812-2501-45f7-a7b5-751d5ad451d8",
-      "markdown_sha256": "0e2b87e237448f539842c52bdd87ebc05b18ffe46aea90c4a7c32b5e068e60b4",
+      "markdown_sha256": "e0384557f3b1368d3019dcff80446d221de4b2b4b72e9f6e49a7af118b6f606e",
       "path": "dynamic-programming/bitmask-dp/abc395-g",
       "solution_sha256": "e81930e1792080d6e0d5cd1260b51df1e5b4dd15c5724f246acb360ef45b03a2",
       "title": "Minimum Steiner Tree 2"
     },
     {
       "id": "0b24f98f-7529-415a-9488-54510c7058e2",
-      "markdown_sha256": "fd4b491ce623e525d8e1b4f76f53e3de8ed7825a9c6e324b284ee62114fe487a",
+      "markdown_sha256": "773153fe1ee594f68bd2a028d61132755f40d1519ac65e1572e3a0e550117034",
       "path": "backtracking-combinatorics/constraint-search/n-queens",
       "solution_sha256": "37d67e8e2f7b924d33bcc0d3fa3c3a880cb22f7351ac1bca48b4c6e1cb2ea152",
       "title": "N-Queens"
     },
     {
       "id": "6284537b-823e-4ed5-ad6f-a28129c54f1f",
-      "markdown_sha256": "9905f1e31cdbef43d915f7fa457bfc75306637f7e2e3515942faff1c952608cc",
+      "markdown_sha256": "032a87b33fcc46a8d93cf5bc5bdc8f14c1d92cd441a1a689754a38dda52aeacf",
       "path": "dynamic-programming/1d-dp/palindrome-partitioning-ii",
       "solution_sha256": "b9c297ae915762ea49ca4308a219c86e7e1404499452dd5a16241faff47ab950",
       "title": "Palindrome Partitioning II"
     },
     {
       "id": "1fd7f8a2-c015-4c65-ac9c-07173af4d6f2",
-      "markdown_sha256": "693038d32aecda9e4e79149c881a123a40ad08672c2fe7ff4f1928b0de0654c5",
+      "markdown_sha256": "1bcba22aaba2193a43e3fb11aa7c4b0ead718a0076b13818299dbd5fbc4dd36b",
       "path": "linear-structures/stacks/remove-k-digits",
       "solution_sha256": "c04d34b5f8e35c393606a0c9c4b94009b729f5d2a3831781ddaa67963704b1c6",
       "title": "Remove K Digits"
     },
     {
       "id": "f6ad1adb-fc4f-4311-abb5-80cd1cd1225c",
-      "markdown_sha256": "cb320e683a54ee35bead8470fe9bcf851fa26666e2e7ab6ee3ac807d378d7699",
+      "markdown_sha256": "c598aa826e4ecce67f4fae8e6fe6e3feb52d4d81b9de3a0926179882d0f471de",
       "path": "trees-ordered/tries/search-suggestions-system",
       "solution_sha256": "f61a3021eadcd50ea8a9b54ff39dbb9680cd66822dad064135333edf4f7d71c2",
       "title": "Search Suggestions System"
     },
     {
       "id": "589f3150-d3cb-4218-8475-ce24f7f9e168",
-      "markdown_sha256": "67657cf5dbf0955639d8fa492842a1632e9fdecd0a1c00c59f2e8abbc55ae466",
+      "markdown_sha256": "ab0d499986dd0c08a39e04f770ba01d873bfc185d2e2f9fc711c91b1d550dd75",
       "path": "search-ordering/binary-search/special-array-with-x-elements-greater-than-or-equal-x",
       "solution_sha256": "571853819d64f2b9b68c6faba0d4fa0fa044dd1c60bff02dd484f9a029a5f8f3",
       "title": "Special Array With X Elements Greater Than or Equal X"
     },
     {
       "id": "04579f35-c4a8-491b-9969-97072142564d",
-      "markdown_sha256": "c8c04bf905b8b4be8f26175fc087af575d67ad61fefeeb9f08ad23a54d7c574e",
+      "markdown_sha256": "e5bfc87ad3abf305b19a4f8b25b034bf3b631a744d66d5b4d62abc4ff917440b",
       "path": "backtracking-combinatorics/constraint-search/split-a-string-into-the-max-number-of-unique-substrings",
       "solution_sha256": "ec5b51d44915c679390913de07d80a754bf722d00084aaef022f1f5a50d6c0e5",
       "title": "Split a String Into the Max Number of Unique Substrings"
     },
     {
       "id": "2dbad318-797a-4996-a5ba-26f236e1dfd0",
-      "markdown_sha256": "81e8e9a405917b7a9269da832d310d095d7e2e0f7cf1d5fa849fa0154adfb53e",
+      "markdown_sha256": "235429796fa2f513f0ff551df5d7fe9f585c7b4385582394956c5a9f2615a097",
       "path": "backtracking-combinatorics/subsets/subsets-ii",
       "solution_sha256": "70f60384fa7de8e2c5c834d37656685446270bf36c403a99751ae03e9175ab7e",
       "title": "Subsets II"
     },
     {
       "id": "c5e4f548-7943-4ddf-b26a-1d2b366e5763",
-      "markdown_sha256": "b0f5d55acaab7d3d4ac71bfe5e1e38bf9a4b56431850fd9cc22c9d0347f91f7e",
+      "markdown_sha256": "969cbf733c35cca8b4e522ca1f3784d1dc74d94ccf9afd57a7938b11adfa889e",
       "path": "arrays-strings/strings/weighted-word-mapping",
       "solution_sha256": "c5234cec3a5a5e57641568facd6c53c433a99f9d181790820e3b33c78a7684e1",
       "title": "Weighted Word Mapping"
@@ -148,7 +148,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "5b8bba84-1b4b-5a1c-ba66-a93cc6d71563",
+      "id": "e47bcbb0-5c1b-5fad-a19e-3bbb8e6ee04a",
       "kind": "failure",
       "name": "Pattern Not Recognized",
       "parent_id": null,
@@ -159,7 +159,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "6e5b1f0e-1c39-5c5f-9031-44b8d2e7141e",
+      "id": "de0ada30-5a0b-5e9e-b4ab-482c3ce38856",
       "kind": "failure",
       "name": "Wrong Data Structure",
       "parent_id": null,
@@ -170,7 +170,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "1c010780-c1de-5c7c-837d-535455ce3f36",
+      "id": "30cd7713-9098-546b-b0cb-36625f6d969b",
       "kind": "failure",
       "name": "Incorrect State / Transition",
       "parent_id": null,
@@ -181,7 +181,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "d53eb82d-85df-518d-89ab-c22297fd7870",
+      "id": "db65a4d5-7438-5bb6-a851-ce9c1700d197",
       "kind": "failure",
       "name": "Boundary or Indexing Error",
       "parent_id": null,
@@ -192,7 +192,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "d378ef3e-bad0-56db-9112-3657bb936982",
+      "id": "68ac55cb-6c3e-5f03-8cf2-e0768cb6b4c8",
       "kind": "failure",
       "name": "Missed Edge Case",
       "parent_id": null,
@@ -203,7 +203,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "51286a52-5e07-5d2d-9618-1fcee2925c0c",
+      "id": "3880238c-fdff-5e59-ae56-425ea59658a3",
       "kind": "failure",
       "name": "Complexity / TLE",
       "parent_id": null,
@@ -214,7 +214,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "63a4f2e6-33e2-519b-9850-fae53c50574c",
+      "id": "6ce88eae-67d8-5665-b266-e231c383bd20",
       "kind": "failure",
       "name": "Implementation Bug",
       "parent_id": null,
@@ -225,7 +225,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "19a10c0e-06af-51ae-9072-be6338e02ef1",
+      "id": "58b3959d-85a9-509f-984b-539afe5d8044",
       "kind": "failure",
       "name": "Misread Requirement",
       "parent_id": null,
@@ -236,7 +236,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "4da49872-4902-5bda-a83b-f288c05f27b0",
+      "id": "e0cf6ed6-a6e3-517f-8ad2-e18fe243e338",
       "kind": "failure",
       "name": "Python-specific Issue",
       "parent_id": null,
@@ -247,7 +247,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "5dc59bfb-0187-53b9-a8ae-68970fb91a89",
+      "id": "16de95ce-56fe-5d69-b313-94b8af33079a",
       "kind": "failure",
       "name": "Unknown Technique",
       "parent_id": null,
@@ -258,7 +258,7 @@
     {
       "aliases": [],
       "color": "#2de2e6",
-      "id": "d8c52047-065d-5e6c-be57-50bd11095d3c",
+      "id": "51622e9b-dabf-5765-9b25-896ae664c7b5",
       "kind": "main",
       "name": "Arrays & Strings",
       "parent_id": null,
@@ -269,7 +269,7 @@
     {
       "aliases": [],
       "color": "#55d6be",
-      "id": "de7cd642-92cb-5878-bd62-f9ad3704bc83",
+      "id": "f594227b-c279-50f2-8365-d10e55003a18",
       "kind": "main",
       "name": "Linear Structures",
       "parent_id": null,
@@ -280,7 +280,7 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "kind": "main",
       "name": "Trees & Ordered Structures",
       "parent_id": null,
@@ -291,7 +291,7 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "kind": "main",
       "name": "Graphs & Networks",
       "parent_id": null,
@@ -302,7 +302,7 @@
     {
       "aliases": [],
       "color": "#ffb547",
-      "id": "a42000f0-f92d-5619-9231-1e7ea6b69502",
+      "id": "d482b28e-e313-53db-8309-284ebd7aead5",
       "kind": "main",
       "name": "Search & Ordering",
       "parent_id": null,
@@ -313,7 +313,7 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "id": "eba81533-5144-551a-a21d-d35daae34635",
       "kind": "main",
       "name": "Dynamic Programming",
       "parent_id": null,
@@ -324,7 +324,7 @@
     {
       "aliases": [],
       "color": "#ff7a59",
-      "id": "d4a84d2d-da6c-57d3-9b57-94875673aabb",
+      "id": "9f41d61a-ebc7-5d2f-9d45-752e20d70a5f",
       "kind": "main",
       "name": "Greedy & Construction",
       "parent_id": null,
@@ -335,7 +335,7 @@
     {
       "aliases": [],
       "color": "#a98bff",
-      "id": "800ba994-4402-5442-9506-ece9ccec02cb",
+      "id": "5566bc5c-f243-555a-9191-1fa6f451810d",
       "kind": "main",
       "name": "Backtracking & Combinatorics",
       "parent_id": null,
@@ -346,7 +346,7 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "kind": "main",
       "name": "Math & Bitwise",
       "parent_id": null,
@@ -357,7 +357,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "dab87cfe-eb0e-586e-a85c-dab2f60e1d54",
+      "id": "eb56d27b-8767-58a3-92d0-580f4d92f4bc",
       "kind": "pattern",
       "name": "Two Pointers",
       "parent_id": null,
@@ -368,7 +368,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "3335aafe-6ac1-5ade-bd78-3e038e206c3c",
+      "id": "b16590ff-f8d1-565e-a2b5-bef4c03be8ce",
       "kind": "pattern",
       "name": "Sliding Window",
       "parent_id": null,
@@ -379,7 +379,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "7dbdcdda-006d-51d2-ab3e-f18939010de2",
+      "id": "8a50f2ef-9183-589c-af22-f6717fe79924",
       "kind": "pattern",
       "name": "Prefix Sums",
       "parent_id": null,
@@ -390,7 +390,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "777a0d33-feae-5a5b-834e-b2c82f43104e",
+      "id": "61d24c1f-b41c-5e63-988d-68e58e3c051b",
       "kind": "pattern",
       "name": "Monotonic Stack",
       "parent_id": null,
@@ -401,7 +401,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "a99b4f1f-c5bd-5b5c-901c-8810700e227c",
+      "id": "6486004a-e376-5730-bde3-e78f5b856264",
       "kind": "pattern",
       "name": "Monotonic Queue",
       "parent_id": null,
@@ -412,7 +412,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "f868a303-b561-5a23-b3ce-84e24bfce62b",
+      "id": "e8114580-e74d-59ce-b475-c6f34e6a49f7",
       "kind": "pattern",
       "name": "BFS",
       "parent_id": null,
@@ -423,7 +423,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "035e24d4-1f25-5fbd-a08a-dce65bfc8e81",
+      "id": "054ef9fe-949a-55b2-9bda-92b17b4d682f",
       "kind": "pattern",
       "name": "DFS",
       "parent_id": null,
@@ -434,7 +434,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "79a85ec3-aac0-52f2-9917-81ab3c10ba49",
+      "id": "ba3a72b5-a5fe-57e4-b7a1-9437e9e5c885",
       "kind": "pattern",
       "name": "Topological Sort",
       "parent_id": null,
@@ -445,7 +445,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "61519ac5-0946-538e-b0b5-376fc03a78b3",
+      "id": "880edbfd-20b6-5198-a766-5232b888276a",
       "kind": "pattern",
       "name": "Memoization",
       "parent_id": null,
@@ -456,7 +456,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "344303c1-32ea-5183-81ca-ef93be3622bb",
+      "id": "acd97bba-08f3-5641-9de0-8afd44b319ae",
       "kind": "pattern",
       "name": "Tabulation",
       "parent_id": null,
@@ -467,7 +467,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "42c75b9f-c92c-505f-a7b7-fab0f209a9ff",
+      "id": "02388d83-15f9-5b00-a63f-5839d1ee7ca5",
       "kind": "pattern",
       "name": "State Machine",
       "parent_id": null,
@@ -478,7 +478,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "d02ef34a-b79c-5ebe-8b56-7c62e9a733d0",
+      "id": "ffd05b09-1b29-51fb-95ae-edaefbdf927c",
       "kind": "pattern",
       "name": "Coordinate Compression",
       "parent_id": null,
@@ -489,7 +489,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "a9164f70-0b61-5752-a937-a09f290eb2e6",
+      "id": "15db8c22-34fb-5a3d-a8dd-23e40b921eec",
       "kind": "pattern",
       "name": "Fast & Slow Pointers",
       "parent_id": null,
@@ -500,7 +500,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "d6ae1cfe-eaca-5939-b805-8f2acde31c58",
+      "id": "1901bef3-2760-5d22-9bf8-c7f23b762073",
       "kind": "pattern",
       "name": "Meet in the Middle",
       "parent_id": null,
@@ -511,7 +511,7 @@
     {
       "aliases": [],
       "color": null,
-      "id": "2c5318fd-1d40-5ac7-85c0-e068a86da9e0",
+      "id": "c9a30ffd-f175-5192-950a-862bb955d3df",
       "kind": "pattern",
       "name": "Trie Search",
       "parent_id": null,
@@ -522,10 +522,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "7b597323-a5dd-5b2e-84d7-0ae42c92c0f8",
+      "id": "7446323a-ffc4-5c02-a36c-107167ee0510",
       "kind": "sub",
       "name": "1D DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "1d-dp",
       "sort_order": 0
@@ -533,10 +533,10 @@
     {
       "aliases": [],
       "color": "#2de2e6",
-      "id": "b0652ae3-41f7-5430-884a-13ba1fb5a6bd",
+      "id": "47e633cf-4410-5fe3-938e-8a2954994c67",
       "kind": "sub",
       "name": "Arrays",
-      "parent_id": "d8c52047-065d-5e6c-be57-50bd11095d3c",
+      "parent_id": "51622e9b-dabf-5765-9b25-896ae664c7b5",
       "protected": true,
       "slug": "arrays",
       "sort_order": 0
@@ -544,10 +544,10 @@
     {
       "aliases": [],
       "color": "#ffb547",
-      "id": "539ba9fe-cbf9-5199-bc70-cbf4767d39e3",
+      "id": "6b178111-6da6-534e-aeef-97c0915531f4",
       "kind": "sub",
       "name": "Binary Search",
-      "parent_id": "a42000f0-f92d-5619-9231-1e7ea6b69502",
+      "parent_id": "d482b28e-e313-53db-8309-284ebd7aead5",
       "protected": true,
       "slug": "binary-search",
       "sort_order": 0
@@ -555,10 +555,10 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "f07bed1f-57a7-527e-82eb-254b6c9cec84",
+      "id": "e97c2f04-9e37-57ee-a8c5-affda1d25712",
       "kind": "sub",
       "name": "Binary Trees",
-      "parent_id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "parent_id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "protected": true,
       "slug": "binary-trees",
       "sort_order": 0
@@ -566,10 +566,10 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "08c05564-cd65-5b72-a179-d15e2e39edbe",
+      "id": "7d7e497f-144a-59d4-8e11-b32387bfeca4",
       "kind": "sub",
       "name": "Graph Traversal",
-      "parent_id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "parent_id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "protected": true,
       "slug": "graph-traversal",
       "sort_order": 0
@@ -577,10 +577,10 @@
     {
       "aliases": [],
       "color": "#55d6be",
-      "id": "481dbf27-1117-5b66-8f41-22f4f955df84",
+      "id": "1ddfa793-4b4f-556d-bd9a-a35241676703",
       "kind": "sub",
       "name": "Linked Lists",
-      "parent_id": "de7cd642-92cb-5878-bd62-f9ad3704bc83",
+      "parent_id": "f594227b-c279-50f2-8365-d10e55003a18",
       "protected": true,
       "slug": "linked-lists",
       "sort_order": 0
@@ -588,10 +588,10 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "291cfd49-330c-5137-ab31-f1081e41e38f",
+      "id": "2c2514b5-984a-52cf-8292-4b44ff60eb81",
       "kind": "sub",
       "name": "Number Theory",
-      "parent_id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "parent_id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "protected": true,
       "slug": "number-theory",
       "sort_order": 0
@@ -599,10 +599,10 @@
     {
       "aliases": [],
       "color": "#ff7a59",
-      "id": "5adc87e0-f04d-546d-8180-39cb1aa0a807",
+      "id": "63098ea1-ab99-56b8-a9b5-f26341ec1df4",
       "kind": "sub",
       "name": "Scheduling",
-      "parent_id": "d4a84d2d-da6c-57d3-9b57-94875673aabb",
+      "parent_id": "9f41d61a-ebc7-5d2f-9d45-752e20d70a5f",
       "protected": true,
       "slug": "scheduling",
       "sort_order": 0
@@ -610,10 +610,10 @@
     {
       "aliases": [],
       "color": "#a98bff",
-      "id": "1efc727e-a024-5b08-bb5c-1ac9d1c864be",
+      "id": "dc94b58c-a6b1-5faa-bf91-b345d4dd0abe",
       "kind": "sub",
       "name": "Subsets",
-      "parent_id": "800ba994-4402-5442-9506-ece9ccec02cb",
+      "parent_id": "5566bc5c-f243-555a-9191-1fa6f451810d",
       "protected": true,
       "slug": "subsets",
       "sort_order": 0
@@ -621,10 +621,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "91d16774-9fac-50c0-9399-859ea4941656",
+      "id": "68a852bb-0f40-5a18-b469-23c7013a6b9a",
       "kind": "sub",
       "name": "2D & Grid DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "2d-and-grid-dp",
       "sort_order": 1
@@ -632,10 +632,10 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "c8d8b4ba-0d93-596d-964d-a74212e1410d",
+      "id": "faf1d4ed-d07f-5b19-b9a2-d90cc2123061",
       "kind": "sub",
       "name": "Binary Search Trees",
-      "parent_id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "parent_id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "protected": true,
       "slug": "binary-search-trees",
       "sort_order": 1
@@ -643,10 +643,10 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "1fb520d7-52d0-5283-b1f8-ec6bff5d6eaf",
+      "id": "d55c7361-3e36-52bd-9772-a63e89e998a7",
       "kind": "sub",
       "name": "Combinatorics",
-      "parent_id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "parent_id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "protected": true,
       "slug": "combinatorics",
       "sort_order": 1
@@ -654,10 +654,10 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "3f641082-80f1-5fce-a818-33e7cfed5e18",
+      "id": "775feb1d-a068-5d6f-9488-2c1a3be71037",
       "kind": "sub",
       "name": "DAGs",
-      "parent_id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "parent_id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "protected": true,
       "slug": "dags",
       "sort_order": 1
@@ -665,10 +665,10 @@
     {
       "aliases": [],
       "color": "#a98bff",
-      "id": "d388a4c5-a026-5fd9-978f-76ad3893764b",
+      "id": "bb60cd12-5ffe-520d-83fc-abc8faf7407f",
       "kind": "sub",
       "name": "Permutations",
-      "parent_id": "800ba994-4402-5442-9506-ece9ccec02cb",
+      "parent_id": "5566bc5c-f243-555a-9191-1fa6f451810d",
       "protected": true,
       "slug": "permutations",
       "sort_order": 1
@@ -676,10 +676,10 @@
     {
       "aliases": [],
       "color": "#ffb547",
-      "id": "dd1d5cff-9466-546f-94c1-68b9af6fa9e2",
+      "id": "0ced7452-092a-5352-b714-ad0f03bba12e",
       "kind": "sub",
       "name": "Sorting",
-      "parent_id": "a42000f0-f92d-5619-9231-1e7ea6b69502",
+      "parent_id": "d482b28e-e313-53db-8309-284ebd7aead5",
       "protected": true,
       "slug": "sorting",
       "sort_order": 1
@@ -687,10 +687,10 @@
     {
       "aliases": [],
       "color": "#55d6be",
-      "id": "f8114b51-19ad-59e8-be91-dba32413b6be",
+      "id": "cdcd2e43-2dd4-5dc7-b780-43650c33e9f9",
       "kind": "sub",
       "name": "Stacks",
-      "parent_id": "de7cd642-92cb-5878-bd62-f9ad3704bc83",
+      "parent_id": "f594227b-c279-50f2-8365-d10e55003a18",
       "protected": true,
       "slug": "stacks",
       "sort_order": 1
@@ -698,10 +698,10 @@
     {
       "aliases": [],
       "color": "#2de2e6",
-      "id": "b982f2f2-cab6-50cf-8cb7-56825e9fd2b4",
+      "id": "6518e5af-27ca-57ea-ab6a-fd6b73954026",
       "kind": "sub",
       "name": "Strings",
-      "parent_id": "d8c52047-065d-5e6c-be57-50bd11095d3c",
+      "parent_id": "51622e9b-dabf-5765-9b25-896ae664c7b5",
       "protected": true,
       "slug": "strings",
       "sort_order": 1
@@ -709,10 +709,10 @@
     {
       "aliases": [],
       "color": "#ff7a59",
-      "id": "ad77d960-4882-5ae6-b442-b7ce97ac6dad",
+      "id": "3eb0680a-706a-5e0c-93cd-e9936369d045",
       "kind": "sub",
       "name": "Sweep Line",
-      "parent_id": "d4a84d2d-da6c-57d3-9b57-94875673aabb",
+      "parent_id": "9f41d61a-ebc7-5d2f-9d45-752e20d70a5f",
       "protected": true,
       "slug": "sweep-line",
       "sort_order": 1
@@ -720,10 +720,10 @@
     {
       "aliases": [],
       "color": "#a98bff",
-      "id": "40bb7087-9862-5cad-8a94-b3dc441b47b5",
+      "id": "e3559c87-88b2-5555-8d01-abcf125b8845",
       "kind": "sub",
       "name": "Constraint Search",
-      "parent_id": "800ba994-4402-5442-9506-ece9ccec02cb",
+      "parent_id": "5566bc5c-f243-555a-9191-1fa6f451810d",
       "protected": true,
       "slug": "constraint-search",
       "sort_order": 2
@@ -731,10 +731,10 @@
     {
       "aliases": [],
       "color": "#ff7a59",
-      "id": "be122f4c-13a6-563d-a0a4-ed61bccca963",
+      "id": "b4793eb3-4749-52d0-a3cf-c1b39dc4b34d",
       "kind": "sub",
       "name": "Greedy Construction",
-      "parent_id": "d4a84d2d-da6c-57d3-9b57-94875673aabb",
+      "parent_id": "9f41d61a-ebc7-5d2f-9d45-752e20d70a5f",
       "protected": true,
       "slug": "greedy-construction-greedy-construction",
       "sort_order": 2
@@ -742,10 +742,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "1e1f6ca6-3d54-5730-ad86-cbc49073b258",
+      "id": "fb0525f7-6c7f-5b9b-99c3-02cfba91b0d2",
       "kind": "sub",
       "name": "Knapsack",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "knapsack",
       "sort_order": 2
@@ -753,10 +753,10 @@
     {
       "aliases": [],
       "color": "#2de2e6",
-      "id": "ee20e1d8-5e6f-5798-aa4e-bc8701bdde07",
+      "id": "a3299138-878c-5ba6-bdd5-51ef90c513d7",
       "kind": "sub",
       "name": "Matrices & Grids",
-      "parent_id": "d8c52047-065d-5e6c-be57-50bd11095d3c",
+      "parent_id": "51622e9b-dabf-5765-9b25-896ae664c7b5",
       "protected": true,
       "slug": "matrices-and-grids",
       "sort_order": 2
@@ -764,10 +764,10 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "ee3a5e60-74b2-5635-b1d9-b9287c3456b7",
+      "id": "20ea6237-a6b2-537b-9b4b-84b879d55c63",
       "kind": "sub",
       "name": "Probability",
-      "parent_id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "parent_id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "protected": true,
       "slug": "probability",
       "sort_order": 2
@@ -775,10 +775,10 @@
     {
       "aliases": [],
       "color": "#55d6be",
-      "id": "9d2f9aa8-4194-5738-91a7-e6cb256b3781",
+      "id": "4db7566d-a3f5-5fa7-b8ff-ce18de861442",
       "kind": "sub",
       "name": "Queues & Deques",
-      "parent_id": "de7cd642-92cb-5878-bd62-f9ad3704bc83",
+      "parent_id": "f594227b-c279-50f2-8365-d10e55003a18",
       "protected": true,
       "slug": "queues-and-deques",
       "sort_order": 2
@@ -786,10 +786,10 @@
     {
       "aliases": [],
       "color": "#ffb547",
-      "id": "bad4bac4-31f1-5bb6-a5fe-02f2ba6fdd8a",
+      "id": "05f2913f-baaf-53a6-b5da-1c20021e08dc",
       "kind": "sub",
       "name": "Selection",
-      "parent_id": "a42000f0-f92d-5619-9231-1e7ea6b69502",
+      "parent_id": "d482b28e-e313-53db-8309-284ebd7aead5",
       "protected": true,
       "slug": "selection",
       "sort_order": 2
@@ -797,10 +797,10 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "572d8a56-845b-506a-8638-c885c23744b7",
+      "id": "ab3483bd-3a44-5c2d-928f-deb4d858795f",
       "kind": "sub",
       "name": "Tries",
-      "parent_id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "parent_id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "protected": true,
       "slug": "tries",
       "sort_order": 2
@@ -808,10 +808,10 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "88bf7050-f0b1-531e-819d-7b012f277a0f",
+      "id": "fafbe9cd-55d5-5903-b015-251e4132ae2d",
       "kind": "sub",
       "name": "Union-Find",
-      "parent_id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "parent_id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "protected": true,
       "slug": "union-find",
       "sort_order": 2
@@ -819,10 +819,10 @@
     {
       "aliases": [],
       "color": "#ffb547",
-      "id": "3251f89f-f711-5bdd-b95e-8e30b998a494",
+      "id": "22c69a59-2140-5574-a6d4-74b228ff94f1",
       "kind": "sub",
       "name": "Divide & Conquer",
-      "parent_id": "a42000f0-f92d-5619-9231-1e7ea6b69502",
+      "parent_id": "d482b28e-e313-53db-8309-284ebd7aead5",
       "protected": true,
       "slug": "divide-and-conquer",
       "sort_order": 3
@@ -830,10 +830,10 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "9c2ace9e-dfd4-5763-80d2-6afbc6c4234a",
+      "id": "57cbbc5c-84f9-508a-8d7a-f80c83b00008",
       "kind": "sub",
       "name": "Geometry",
-      "parent_id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "parent_id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "protected": true,
       "slug": "geometry",
       "sort_order": 3
@@ -841,10 +841,10 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "c5cbf419-ebc2-5e03-bc27-101ffe2d0199",
+      "id": "767f64cc-a1b6-5274-bc8d-33da0a9c66c6",
       "kind": "sub",
       "name": "Heaps",
-      "parent_id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "parent_id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "protected": true,
       "slug": "heaps",
       "sort_order": 3
@@ -852,10 +852,10 @@
     {
       "aliases": [],
       "color": "#2de2e6",
-      "id": "9bb79057-5cbf-56d7-ac2e-17dd9cc5e830",
+      "id": "282246ed-993b-5064-bb6f-f971b46f4863",
       "kind": "sub",
       "name": "Intervals",
-      "parent_id": "d8c52047-065d-5e6c-be57-50bd11095d3c",
+      "parent_id": "51622e9b-dabf-5765-9b25-896ae664c7b5",
       "protected": true,
       "slug": "intervals",
       "sort_order": 3
@@ -863,10 +863,10 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "35905b52-a320-5d99-8d2c-e393540fbe7e",
+      "id": "f11a8419-ff5a-5738-b68d-a1807437ac73",
       "kind": "sub",
       "name": "Shortest Paths",
-      "parent_id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "parent_id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "protected": true,
       "slug": "shortest-paths",
       "sort_order": 3
@@ -874,10 +874,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "1fb899b3-306b-5485-9817-f1627ff4903d",
+      "id": "70f4d918-0f45-56b2-af81-178317e53845",
       "kind": "sub",
       "name": "Subsequence DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "subsequence-dp",
       "sort_order": 3
@@ -885,10 +885,10 @@
     {
       "aliases": [],
       "color": "#48a9ff",
-      "id": "eed2d54f-4047-5728-8e33-4d0004776eef",
+      "id": "cb4cf2f9-8cbc-5691-bad4-38947e7822c8",
       "kind": "sub",
       "name": "Bit Manipulation",
-      "parent_id": "6f82f583-2857-5e18-8ee5-465dfcc34a9d",
+      "parent_id": "6e674b2c-b774-5fb1-9b1a-69cff5e80bd9",
       "protected": true,
       "slug": "bit-manipulation",
       "sort_order": 4
@@ -896,10 +896,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "4d220417-3420-55dc-8eab-60e2ed1702b5",
+      "id": "843daa45-ee26-5bef-92fb-7a2723b8ae97",
       "kind": "sub",
       "name": "Interval DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "interval-dp",
       "sort_order": 4
@@ -907,10 +907,10 @@
     {
       "aliases": [],
       "color": "#74f2a7",
-      "id": "3d369e46-a361-5d0e-a1dd-f1bf673e5902",
+      "id": "a8d797a4-7125-5e6c-a565-6c6cf3d84577",
       "kind": "sub",
       "name": "Segment & Fenwick Trees",
-      "parent_id": "dc20c274-9f00-5f03-8c10-1734587f70f7",
+      "parent_id": "0ae9a232-faa8-5a0f-a2e6-8916476b902d",
       "protected": true,
       "slug": "segment-and-fenwick-trees",
       "sort_order": 4
@@ -918,10 +918,10 @@
     {
       "aliases": [],
       "color": "#7c5cff",
-      "id": "70ee08ed-e707-5c6a-a226-5b07f0ee5137",
+      "id": "6d40d4fe-96eb-5879-bc52-cd24827b96a1",
       "kind": "sub",
       "name": "Spanning Trees",
-      "parent_id": "1be5d5f7-7665-5fd8-b29b-96a20d711e77",
+      "parent_id": "e6c8873b-9ed7-5dab-8982-ceaa8720c578",
       "protected": true,
       "slug": "spanning-trees",
       "sort_order": 4
@@ -929,10 +929,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "dc9d3a67-20be-566c-8481-7ba8ce169329",
+      "id": "d465d8cd-ed03-55d4-b600-dcd2fbd563fa",
       "kind": "sub",
       "name": "Tree DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "tree-dp",
       "sort_order": 5
@@ -940,10 +940,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "613a20fd-dd56-5b75-b466-cf2d5afac08a",
+      "id": "04ce5fdb-0968-593f-b829-901068e43a68",
       "kind": "sub",
       "name": "Bitmask DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "bitmask-dp",
       "sort_order": 6
@@ -951,10 +951,10 @@
     {
       "aliases": [],
       "color": "#ff3cac",
-      "id": "8ec73fc8-2850-575d-806a-901ec1808b8b",
+      "id": "ad440547-ee72-5516-831e-50e0ecf50540",
       "kind": "sub",
       "name": "Digit DP",
-      "parent_id": "d9284d44-8292-5380-bc66-6f4525d26b75",
+      "parent_id": "eba81533-5144-551a-a21d-d35daae34635",
       "protected": true,
       "slug": "digit-dp",
       "sort_order": 7

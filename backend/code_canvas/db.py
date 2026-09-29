@@ -19,7 +19,7 @@ def slugify(value: str) -> str:
 
 
 def taxonomy_uid(slug: str) -> str:
-    return str(uuid5(NAMESPACE_URL, f"algo-atlas:taxonomy:{slug}"))
+    return str(uuid5(NAMESPACE_URL, f"code-canvas:taxonomy:{slug}"))
 
 
 def build_engine(database_url: str | None = None) -> Engine:

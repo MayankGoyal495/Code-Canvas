@@ -8,13 +8,13 @@ title: Is Graph Bipartite?
 url: https://leetcode.com/problems/is-graph-bipartite/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 08c05564-cd65-5b72-a179-d15e2e39edbe
+primary_subtag_id: 7d7e497f-144a-59d4-8e11-b32387bfeca4
 primary_path:
 - graphs-networks
 - graph-traversal
 taxonomy_ids:
-- f868a303-b561-5a23-b3ce-84e24bfce62b
-- 035e24d4-1f25-5fbd-a08a-dce65bfc8e81
+- e8114580-e74d-59ce-b475-c6f34e6a49f7
+- 054ef9fe-949a-55b2-9bda-92b17b4d682f
 time_complexity: O(V + E)
 space_complexity: O(V)
 created_at: '2026-08-27T19:49:12.706342Z'
@@ -25,8 +25,8 @@ mistake_events:
   observation: The first attempt tied colors to BFS levels and did not safely handle
     disconnected components.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - d378ef3e-bad0-56db-9112-3657bb936982
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - 68ac55cb-6c3e-5f03-8cf2-e0768cb6b4c8
 ---
 
 # Is Graph Bipartite?

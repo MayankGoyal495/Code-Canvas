@@ -8,12 +8,12 @@ title: Count the Number of Incremovable Subarrays I
 url: https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
 difficulty: Easy
 status: Understood
-primary_subtag_id: b0652ae3-41f7-5430-884a-13ba1fb5a6bd
+primary_subtag_id: 47e633cf-4410-5fe3-938e-8a2954994c67
 primary_path:
 - arrays-strings
 - arrays
 taxonomy_ids:
-- dab87cfe-eb0e-586e-a85c-dab2f60e1d54
+- eb56d27b-8767-58a3-92d0-580f4d92f4bc
 time_complexity: O(n)
 space_complexity: O(1)
 created_at: '2026-08-29T18:51:46.817692Z'
@@ -24,8 +24,8 @@ mistake_events:
   observation: Could not figure out the optimal solution; saved the brute-force approach
     for later review.
   reason_ids:
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
-  - 5b8bba84-1b4b-5a1c-ba66-a93cc6d71563
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
+  - e47bcbb0-5c1b-5fad-a19e-3bbb8e6ee04a
 ---
 
 # Count the Number of Incremovable Subarrays I

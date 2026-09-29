@@ -8,14 +8,14 @@ title: Minimum Falling Path Sum
 url: https://leetcode.com/problems/minimum-falling-path-sum/
 difficulty: Medium
 status: Understood
-primary_subtag_id: 91d16774-9fac-50c0-9399-859ea4941656
+primary_subtag_id: 68a852bb-0f40-5a18-b469-23c7013a6b9a
 primary_path:
 - dynamic-programming
 - 2d-and-grid-dp
 taxonomy_ids:
-- 61519ac5-0946-538e-b0b5-376fc03a78b3
-- 344303c1-32ea-5183-81ca-ef93be3622bb
-- ee20e1d8-5e6f-5798-aa4e-bc8701bdde07
+- 880edbfd-20b6-5198-a766-5232b888276a
+- acd97bba-08f3-5641-9de0-8afd44b319ae
+- a3299138-878c-5ba6-bdd5-51ef90c513d7
 time_complexity: O(rows × columns)
 space_complexity: O(rows × columns)
 created_at: '2026-08-27T19:49:12.697014Z'
@@ -25,8 +25,8 @@ mistake_events:
   occurred_at: '2026-08-27T19:49:12.697353Z'
   observation: Needed a clear top-down state, base row, and the three legal next pointers.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - d53eb82d-85df-518d-89ab-c22297fd7870
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - db65a4d5-7438-5bb6-a851-ce9c1700d197
 ---
 
 # Minimum Falling Path Sum

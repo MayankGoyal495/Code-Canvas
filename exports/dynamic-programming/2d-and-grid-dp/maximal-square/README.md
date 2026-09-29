@@ -8,13 +8,13 @@ title: Maximal Square
 url: https://leetcode.com/problems/maximal-square/
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 91d16774-9fac-50c0-9399-859ea4941656
+primary_subtag_id: 68a852bb-0f40-5a18-b469-23c7013a6b9a
 primary_path:
 - dynamic-programming
 - 2d-and-grid-dp
 taxonomy_ids:
-- 344303c1-32ea-5183-81ca-ef93be3622bb
-- ee20e1d8-5e6f-5798-aa4e-bc8701bdde07
+- acd97bba-08f3-5641-9de0-8afd44b319ae
+- a3299138-878c-5ba6-bdd5-51ef90c513d7
 time_complexity: O(m × n)
 space_complexity: O(m × n)
 created_at: '2026-08-28T03:07:24.049692Z'
@@ -25,8 +25,8 @@ mistake_events:
   observation: Accepted, then simplified by letting min() handle zero neighbors and
     initializing the skipped boundaries directly.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - d53eb82d-85df-518d-89ab-c22297fd7870
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - db65a4d5-7438-5bb6-a851-ce9c1700d197
 ---
 
 # Maximal Square

@@ -8,7 +8,7 @@ title: Weighted Word Mapping
 url: https://leetcode.com/problems/weighted-word-mapping/description/
 difficulty: Easy
 status: Resolved
-primary_subtag_id: b982f2f2-cab6-50cf-8cb7-56825e9fd2b4
+primary_subtag_id: 6518e5af-27ca-57ea-ab6a-fd6b73954026
 primary_path:
 - arrays-strings
 - strings

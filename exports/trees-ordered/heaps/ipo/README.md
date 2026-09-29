@@ -8,13 +8,13 @@ title: IPO
 url: https://leetcode.com/problems/ipo/
 difficulty: Hard
 status: Understood
-primary_subtag_id: c5cbf419-ebc2-5e03-bc27-101ffe2d0199
+primary_subtag_id: 767f64cc-a1b6-5274-bc8d-33da0a9c66c6
 primary_path:
 - trees-ordered
 - heaps
 taxonomy_ids:
-- be122f4c-13a6-563d-a0a4-ed61bccca963
-- dd1d5cff-9466-546f-94c1-68b9af6fa9e2
+- b4793eb3-4749-52d0-a3cf-c1b39dc4b34d
+- 0ced7452-092a-5352-b714-ad0f03bba12e
 time_complexity: O(n log n + k log n)
 space_complexity: O(n)
 created_at: '2026-08-27T19:49:12.733886Z'
@@ -25,8 +25,8 @@ mistake_events:
   observation: A single profit heap repeatedly popped and reinserted the same unaffordable
     project.
   reason_ids:
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
-  - 6e5b1f0e-1c39-5c5f-9031-44b8d2e7141e
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
+  - de0ada30-5a0b-5e9e-b4ab-482c3ce38856
 ---
 
 # IPO

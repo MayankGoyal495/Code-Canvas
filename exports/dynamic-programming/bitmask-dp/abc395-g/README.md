@@ -8,14 +8,14 @@ title: Minimum Steiner Tree 2
 url: https://atcoder.jp/contests/abc395/tasks/abc395_g
 difficulty: Hard
 status: Open
-primary_subtag_id: 613a20fd-dd56-5b75-b466-cf2d5afac08a
+primary_subtag_id: 04ce5fdb-0968-593f-b829-901068e43a68
 primary_path:
 - dynamic-programming
 - bitmask-dp
 taxonomy_ids:
-- 344303c1-32ea-5183-81ca-ef93be3622bb
-- 35905b52-a320-5d99-8d2c-e393540fbe7e
-- 70ee08ed-e707-5c6a-a226-5b07f0ee5137
+- acd97bba-08f3-5641-9de0-8afd44b319ae
+- f11a8419-ff5a-5738-b68d-a1807437ac73
+- 6d40d4fe-96eb-5879-bc52-cd24827b96a1
 time_complexity: O(3^K N^2 + 2^K N^3)
 space_complexity: O(2^K N + N^2)
 created_at: '2026-08-27T19:49:12.666497Z'
@@ -26,8 +26,8 @@ mistake_events:
   observation: Needed intuition for the subset merge, root movement, and why query
     vertex t is a column rather than a mask bit.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - 5dc59bfb-0187-53b9-a8ae-68970fb91a89
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - 16de95ce-56fe-5d69-b313-94b8af33079a
 ---
 
 # Minimum Steiner Tree 2

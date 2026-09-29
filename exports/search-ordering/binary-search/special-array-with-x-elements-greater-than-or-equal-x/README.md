@@ -8,13 +8,13 @@ title: Special Array With X Elements Greater Than or Equal X
 url: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 difficulty: Easy
 status: Understood
-primary_subtag_id: 539ba9fe-cbf9-5199-bc70-cbf4767d39e3
+primary_subtag_id: 6b178111-6da6-534e-aeef-97c0915531f4
 primary_path:
 - search-ordering
 - binary-search
 taxonomy_ids:
-- b0652ae3-41f7-5430-884a-13ba1fb5a6bd
-- dd1d5cff-9466-546f-94c1-68b9af6fa9e2
+- 47e633cf-4410-5fe3-938e-8a2954994c67
+- 0ced7452-092a-5352-b714-ad0f03bba12e
 time_complexity: O(n log n)
 space_complexity: O(1)
 created_at: '2026-08-27T19:49:12.687343Z'
@@ -25,8 +25,8 @@ mistake_events:
   observation: The search could repeat the same midpoint and assumed x had to be present
     in the array.
   reason_ids:
-  - 1c010780-c1de-5c7c-837d-535455ce3f36
-  - 51286a52-5e07-5d2d-9618-1fcee2925c0c
+  - 30cd7713-9098-546b-b0cb-36625f6d969b
+  - 3880238c-fdff-5e59-ae56-425ea59658a3
 ---
 
 # Special Array With X Elements Greater Than or Equal X

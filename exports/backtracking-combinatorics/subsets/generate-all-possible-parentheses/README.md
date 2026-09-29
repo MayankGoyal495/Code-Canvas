@@ -8,12 +8,12 @@ title: Generate Parentheses
 url: https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1
 difficulty: Medium
 status: Resolved
-primary_subtag_id: 1efc727e-a024-5b08-bb5c-1ac9d1c864be
+primary_subtag_id: dc94b58c-a6b1-5faa-bf91-b345d4dd0abe
 primary_path:
 - backtracking-combinatorics
 - subsets
 taxonomy_ids:
-- 40bb7087-9862-5cad-8a94-b3dc441b47b5
+- e3559c87-88b2-5555-8d01-abcf125b8845
 time_complexity: O(C(n/2) × n)
 space_complexity: O(n) auxiliary + output
 created_at: '2026-08-28T02:16:58.279818Z'

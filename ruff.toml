@@ -1,0 +1,7 @@
+target-version = "py311"
+line-length = 100
+include = ["backend/code_canvas/**/*.py", "tests/backend/**/*.py", "scripts/**/*.py"]
+extend-exclude = ["backend/alembic", "exports", ".local", ".venv", "**/reference.py", "backend/code_canvas/learning_pack_code.py"]
+
+[lint]
+select = ["I"]
